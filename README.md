@@ -1,34 +1,35 @@
-# Multimedia Systems Project
+#  Multimedia Systems Project
 
-## Overview
+##  Overview
 This repository contains the final project for the **Multimedia Systems course**.
 
-Students will develop a **conceptual multimedia system** throughout the semester, applying theoretical concepts in a structured and practical way.
+Throughout the semester, each student will design and document a **conceptual multimedia system**, applying theoretical concepts in a structured and practical way.
 
 ---
 
-## Objective
-Design and document a multimedia system that includes:
+##  Objective
+The goal is to design a multimedia system that includes:
 
 - Multiple media types (text, image, audio, video, animation)
 - User interaction (non-linear navigation)
 - Defined platform and system structure
 - Technical justification of decisions
 
- No programming is required.
+ **No programming is required.**
 
 ---
 
-## Format
-- Individual project
-- Each student must create their own folder and submit their work
+##  Format
+- Individual project  
+- Each student is responsible for their own work  
+- All submissions must follow the repository structure  
 
 ---
 
-## Repository Structure
-
+##  Repository Structure
 
 multimedia-systems-project/
+
 │
 
 ├── students/
@@ -60,9 +61,11 @@ multimedia-systems-project/
 
 ---
 
-## Deliveries
+##  Deliveries
 
-### Delivery 1 – Idea and Scope
+Each student must complete the following deliveries:
+
+###  Delivery 1 – Idea and Scope
 - System name  
 - Problem description  
 - Target audience  
@@ -71,15 +74,15 @@ multimedia-systems-project/
 
 ---
 
-### Delivery 2 – Media and Interaction
+###  Delivery 2 – Media and Interaction
 - Media types (text, image, audio, video, animation)  
 - Classification (discrete vs continuous)  
 - Linear or non-linear  
-- User interaction  
+- User interaction description  
 
 ---
 
-### Delivery 3 – Platform and System
+###  Delivery 3 – Platform and System
 - Development platform  
 - Delivery platform  
 - Operating system  
@@ -88,7 +91,7 @@ multimedia-systems-project/
 
 ---
 
-### Delivery 4 – Architecture and Technologies
+###  Delivery 4 – Architecture and Technologies
 - System diagram  
 - Architecture explanation  
 - Technologies used  
@@ -96,16 +99,16 @@ multimedia-systems-project/
 
 ---
 
-### Delivery 5 – Prototype and Presentation
+###  Delivery 5 – Prototype and Presentation
 - Prototype (Canva, Figma, PowerPoint or sketch)  
 - Navigation flow  
 - System explanation  
 
-Presentation: **3–5 minutes**
+ Presentation time: **3–5 minutes**
 
 ---
 
-## Schedule
+##  Schedule
 
 ### Unit 2
 - Week 1 → Delivery 1  
@@ -118,7 +121,7 @@ Presentation: **3–5 minutes**
 
 ---
 
-## Evaluation
+##  Evaluation
 
 ### Unit 2 (10 points)
 - Delivery 1 → 3 points  
@@ -129,26 +132,31 @@ Presentation: **3–5 minutes**
 - Delivery 4 → 4 points  
 - Delivery 5 → 6 points  
 
-### Criteria
-- Clarity  
+### Evaluation Criteria
+- Clarity and organization  
 - Correct use of concepts  
 - Technical consistency  
-- Organization  
+- Completeness  
 
 ---
 
-## Instructions for Students
+##  Instructions for Students
 
-Each student must:
+### Step 1 – Fork the repository
+Each student must create their own copy of this repository using the **Fork** button.
 
-1. Create a folder inside `/students/` using the format: student-XX-your-name
+---
 
-Example: student-03-Eduardo-Sampaio
+### Step 2 – Create your folder
+Inside `/students/`, create a folder using the following format: student-XX-your-name
+
+Example: student-03-eduardo-sampaio
 
 
 ---
 
-2. Inside the folder, create the files:
+### Step 3 – Create your delivery files
+Inside your folder, create:
 
 - delivery1.md  
 - delivery2.md  
@@ -156,81 +164,85 @@ Example: student-03-Eduardo-Sampaio
 - delivery4.md  
 - delivery5.md  
 
----
-
-3. Each file must contain only the corresponding delivery.
+Each file must contain only its corresponding delivery.
 
 ---
 
-## Rules
+##  Rules
 
 - Do not modify other students' folders  
 - Follow naming conventions strictly  
 - Submit on time  
-- Projects must include multiple media and interaction  
+- Each project must include multiple media types and user interaction  
 
 ---
 
-## Final Goal
+##  Submission Process (MANDATORY)
+
+All submissions must be done via **Pull Request (PR)**.
+
+---
+
+###  Workflow
+
+1. Fork the repository  
+2. Create a branch for each delivery  
+3. Make your changes  
+4. Submit a Pull Request to the original repository  
+
+---
+
+###  Branch Naming
+student-XX-deliveryX
+
+Example: student-03-delivery1
+
+
+---
+
+###  Pull Request Title
+student-XX-name - deliveryX
+
+Example: student-03-eduardo-sampaio - delivery2
+
+---
+
+##  Pull Request Requirements
+
+- Only modify your own folder  
+- Submit **one delivery per PR**  
+- File name must be correct (delivery1.md, delivery2.md, etc.)  
+- Content must be complete (no empty or placeholder text)  
+
+---
+
+##  Invalid Pull Requests (will be rejected)
+
+- Editing another student's folder  
+- Multiple deliveries in the same PR  
+- Incorrect file names  
+- Missing or incomplete content  
+- Submissions outside deadlines  
+
+---
+
+##  Important
+
+Pull Requests that do not follow these rules will be:
+
+ **Closed without review**
+
+---
+
+##  Final Goal
 
 By the end of the project, students should be able to:
 
 - Understand multimedia systems architecture  
-- Apply theoretical concepts in a practical scenario  
+- Apply theoretical concepts in practice  
 - Design a complete multimedia solution  
 
 ---
 
-##  Pull Request Rules
-
-All submissions must be done via **Pull Request (PR)**.
-
-###  Requirements
-
-- PR title must follow the format: student-XX-name - deliveryX
-
-- Example: student-03-john-doe - delivery2
-
-
-- PR must modify **only the student's own folder**
-- Only **one delivery per PR**
-- File must be correctly named (delivery1.md, delivery2.md, etc.)
-- Content must be complete (no empty or placeholder text)
-
-All students must follow this workflow:
-
-1. Fork the repository
-2. Create a branch for each delivery
-3. Submit via Pull Request to the original repository
-
-### Branch naming:
-student-XX-deliveryX
-
-Example:
-student-03-delivery1
-
-### Rules:
-- Only edit your own folder
-- One delivery per PR
-- Do not modify other students' files
-- Follow naming conventions strictly
-
----
-
-###  Invalid PRs (will be rejected)
-
-- Editing another student's folder
-- Multiple deliveries in the same PR
-- Wrong file names
-- Missing required content
-- Late submissions
-
----
-
-###  Important
-
-PRs that do not follow these rules will be **closed without review**.
-
-
 ## Instructor
-Prof. Breno Felix
+Prof. M.Sc. Breno Felix
