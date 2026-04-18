@@ -12,7 +12,7 @@ EduPlay – Plataforma Interativa de Aprendizagem Multimídia
 ---
 
 ## Problem Description
-Muitos estudantes têm dificuldade em aprender conteúdos complexos apenas com textos ou aulas tradicionais. Falta interatividade e uso de recursos multimídia que facilitem a compreensão e tornem o aprendizado mais atrativo.
+Muitos estudantes têm dificuldade em aprender conteúdos complexos apenas com textos ou aulas tradicionais com isso a falta interatividade e uso de recursos multimídia que facilitem a compreensão e tornem o aprendizado mais atrativo.
 
 ---
 
