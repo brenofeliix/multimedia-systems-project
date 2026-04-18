@@ -1,32 +1,32 @@
 # Delivery 1 – Idea and Scope
 
 ## Student Information
-- Name:
-- ID:
+- Name: Eduardo Fernandes
+- ID: 20230079152
 
 ---
 
 ## System Name
-(Write the name of your system)
+EduPlay – Plataforma Interativa de Aprendizagem Multimídia
 
 ---
 
 ## Problem Description
-(What problem does your system solve?)
+Muitos estudantes têm dificuldade em aprender conteúdos complexos apenas com textos ou aulas tradicionais. Falta interatividade e uso de recursos multimídia que facilitem a compreensão e tornem o aprendizado mais atrativo.
 
 ---
 
 ## Target Audience
-(Who will use this system?)
+Estudantes do ensino médio e superior que desejam aprender conteúdos de forma mais dinâmica e interativa.
 
 ---
 
 ## System Type
-(e.g., educational, entertainment, health, etc.)
+Sistema educacional multimídia.
 
 ---
 
 ## Justification
-(Why is this system relevant?)
+O uso de multimídia melhora o engajamento e a retenção de conteúdo. Um sistema interativo com vídeos, animações e quizzes pode tornar o aprendizado mais eficiente e interessante.
 
 ---
