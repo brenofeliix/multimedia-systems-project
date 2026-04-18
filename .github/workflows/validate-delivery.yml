@@ -13,7 +13,15 @@ jobs:
 
     steps:
       # ----------------------------
-      # Get changed files from PR (SAFE FOR FORK)
+      # Checkout do código do PR (ESSENCIAL)
+      # ----------------------------
+      - name: Checkout PR code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      # ----------------------------
+      # Get changed files (API GitHub - funciona com fork)
       # ----------------------------
       - name: Get changed files
         id: files
@@ -113,11 +121,18 @@ jobs:
           fi
 
       # ----------------------------
-      # Validate file content (not empty)
+      # Validate file content (agora FUNCIONA)
       # ----------------------------
       - name: Validate content
         run: |
           file="${{ steps.files.outputs.files }}"
+
+          echo "Checking file content: $file"
+
+          if [ ! -f "$file" ]; then
+            echo "File not found"
+            exit 1
+          fi
 
           if [ ! -s "$file" ]; then
             echo "File is empty"
