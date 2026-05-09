@@ -1,0 +1,92 @@
+# Delivery 1 – Idea and Scope
+
+## Student Information
+- Name:Bruno Rafael & Leonardo Miranda
+- ID: 20230079090 / 
+
+## Nome do Sistema
+
+**RetroGame – Plataforma Multimídia para Colecionadores de Jogos Antigos**
+
+## Descrição do Problema
+
+Colecionadores de jogos antigos frequentemente enfrentam dificuldades para organizar suas coleções, encontrar informações confiáveis sobre jogos retrô e compartilhar experiências com outros colecionadores.
+
+Muitas informações estão espalhadas em diferentes sites, fóruns e vídeos, dificultando o acesso rápido a detalhes importantes como:
+- história do jogo;
+- capas e artes originais;
+- trilhas sonoras;
+- gameplay;
+- estado de conservação;
+- raridade;
+- valor de mercado.
+
+Além disso, plataformas atuais não oferecem uma experiência multimídia completa voltada especificamente para o universo de jogos retrô.
+
+O problema identificado é a ausência de um sistema multimídia centralizado que combine organização de coleção, conteúdo histórico e interação audiovisual para colecionadores de jogos antigos.
+
+---
+
+## Público-Alvo
+
+O sistema é destinado para:
+
+- Colecionadores de jogos retrô;
+- Fãs de videogames clássicos;
+- Jogadores nostálgicos;
+- Criadores de conteúdo gamer;
+- Usuários interessados em preservação digital.
+
+Faixa etária principal:
+- 18 a 40 anos.
+
+---
+
+## Tipo de Sistema
+
+O projeto consiste em uma **plataforma multimídia interativa web** voltada para jogos antigos e colecionismo.
+
+O sistema permitirá ao usuário:
+
+- Catalogar jogos da coleção;
+- Visualizar capas e screenshots;
+- Assistir vídeos de gameplay;
+- Ouvir trilhas sonoras clássicas;
+- Consultar informações históricas;
+- Explorar consoles antigos;
+- Interagir com menus não lineares;
+- Compartilhar avaliações e experiências.
+
+O sistema terá suporte para diferentes tipos de mídia:
+- Texto;
+- Imagem;
+- Áudio;
+- Vídeo;
+- Animações de interface.
+
+Características do sistema:
+- Plataforma multimídia;
+- Sistema interativo;
+- Navegação não linear;
+- Catálogo digital de coleções.
+
+---
+
+## Justificativa
+
+O projeto foi escolhido devido ao crescimento do interesse por jogos retrô e preservação da história dos videogames.
+
+Muitos colecionadores valorizam não apenas os jogos, mas também o conteúdo cultural relacionado, como artes, músicas, propagandas e curiosidades históricas.
+
+A proposta do RetroGame busca reunir diferentes mídias em uma única plataforma, proporcionando uma experiência interativa e informativa para os usuários.
+
+O sistema também permite aplicar conceitos importantes da disciplina de Sistemas Multimídia, como:
+
+- Integração de múltiplos formatos de mídia;
+- Interatividade do usuário;
+- Navegação não linear;
+- Estruturação de conteúdo digital;
+- Experiência multimídia;
+- Organização de informação audiovisual.
+
+Além disso, o projeto possui relevância cultural, contribuindo para a preservação da memória dos videogames clássicos e incentivando o compartilhamento de conhecimento entre colecionadores.
