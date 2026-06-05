@@ -1,4 +1,4 @@
-<img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/43c58349-7ce9-42c9-95c0-01d08b2764f2" /># Delivery 5 – Prototype and Presentation
+# Delivery 5 – Prototype and Presentation
 
 ## Student Information
 - Name: Eduardo Fernandes
