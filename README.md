@@ -124,9 +124,21 @@ Each student must complete the following deliveries:
 ##  Evaluation
 
 ### Unit 2 (10 points)
-- Delivery 1 → 3 points  
-- Delivery 2 → 3 points  
-- Delivery 3 → 4 points  
+Written Exam → 6 points:
+
+Conceito e Escopo: Resolução de problemas através de sistemas multimídia, conceitos de mídias e interações com sistemas.
+
+Teoria da Mídia: Classificação de mídias discretas vs. contínuas e estruturas de sistemas lineares vs. não-lineares.
+
+Interação e Arquitetura: Padrões de interação do usuário, restrições de plataforma (Sistemas Isolados/Standalone vs. Distribuídos) e integração de hardware/software.
+
+Deliveries → 4 points
+
+- Delivery 1 (Idea and Scope) → 1.2 points
+
+- Delivery 2 (Media and Interaction) → 1.2 points
+
+- Delivery 3 (Platform and System) → 1.6 points 
 
 ### Unit 3 (10 points)
 - Delivery 4 → 4 points  
